@@ -1,3 +1,8 @@
+# Context Language Toggle (React)
+- Implemented global state management using React Context API to switch programming languages.
+- Avoided prop drilling by sharing state across components through context.
+- Utilized useState and useContext for efficient and scalable state updates.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
