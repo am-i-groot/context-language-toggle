@@ -3,6 +3,11 @@
 - Avoided prop drilling by sharing state across components through context.
 - Utilized useState and useContext for efficient and scalable state updates.
 
+![image](https://github.com/user-attachments/assets/84bed9b0-1dc5-4f99-a362-870313d078ad)
+![image](https://github.com/user-attachments/assets/bfc0d498-c43f-4fa2-927e-843017bf6c9c)
+
+###
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
